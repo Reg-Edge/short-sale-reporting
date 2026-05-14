@@ -40,3 +40,10 @@ tmp/
 # Node (if any)
 node_modules/
 npm-debug.log*
+
+# Evidence.dev build artifacts
+evidence-app/node_modules
+evidence-app/.evidence
+evidence-app/build
+data/raw/
+data/raw/~$*

@@ -1,0 +1,4 @@
+name: short_sales
+type: duckdb
+options:
+  filename: ":memory:"
