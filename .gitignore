@@ -58,3 +58,18 @@ chroma_pdf_store/
 !rag_chatbot/cat/1.pdf
 !rag_chatbot/cat/2.pdf
 !rag_chatbot/cat/3.pdf
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.svelte-kit/
+*.local
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Evidence.dev
+evidence-app/.evidence/
+evidence-app/sources/**/data.parquet
